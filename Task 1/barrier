@@ -1,0 +1,9 @@
+Problem, University needs a Parking system that can detect who is registered and allowed to park, it also needs to dectect how many cars are in the parking lot
+
+data needed, it needs to track who has a valid licence plate, who is allowed to park in this area
+it needs to know maximum occupancy of parking lot 
+it needs to track who enters and leaves the parking lot 
+
+plan the solution 
+a flowchart will be made representing what the solution
+
